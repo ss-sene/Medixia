@@ -37,9 +37,9 @@ Medixia intègre les principales fonctionnalités suivantes :
 
 Avant de commencer, assurez-vous que votre environnement dispose des éléments suivants :
 
-- **Serveur Web** : Apache ou Nginx
-- **Base de Données** : PostgreSQL (recommandé) ou MySQL
-- **PHP** : Version 7.4 ou supérieure
+- **Serveur Web** : Nginx
+- **Base de Données** : PostgreSQL
+- **PHP** : Version 8.2 ou supérieure
 - **Composer** : Pour gérer les dépendances PHP
 - **Git** : Pour cloner le dépôt et gérer le versioning
 
@@ -49,7 +49,7 @@ Suivez les étapes ci-dessous pour installer Medixia :
 
 1. **Cloner le Dépôt**
    ```bash
-   git clone https://github.com/votre-compte/medixia.git
+   git clone https://github.com/ss-sene/Medixia.git
    cd medixia
    ```
 
